@@ -4,7 +4,7 @@ Project 1
 Lähdekoodi project 1 warmup to C and unix programming
 https://github.com/Tissinapa/Katsy-projektit/blob/main/reverse.c
 
-Ohjelma ajetaan käskyllä ./reverse.exe input.txt
+Ohjelma ajetaan käskyllä ./reverse.exe tiedosto
 Nyt ohjelma lukee tiedoston linkitettyyn listaan, tulostaa tiedoston sisällön näytölle. 
 Tämän jälkeen ohjelma kääntää linkitetyn listan ympäri ja tulostaa tiedoston sisällön uudestaan, mutta päinvastaisessa järjestyksessä.
 
@@ -31,6 +31,16 @@ Ohjelma ajetaan käskyllä ./wgrep hakutermi tiedosto
 
 Ohjelma ei täysin noudata moodlen tehtävän antoa vaan oli helpompi saada testit suoritettua kun noudatti projektissa annetun repon ohjeita.
 
+Project 3 Unix shell
+
 Lähdekoodi project 3 Unix shell
 https://github.com/Tissinapa/Katsy-projektit/blob/main/wish.c
 
+Ohjelma käännetty gcc wish.c -o wish.exe -std=c99 -Wall
+
+Ohjelmaa ajetaan joko ./wish.exe tiedostoJossaOnKomento tai ./wish.exe jolloin ohjelma tulostaa wish> näytölle jolloin on valmis ottamaan käskyjä vastaa.
+
+Ohjelma on vajavainen ja toimii ainakin käskyillä ls, pwd, cd, exit ja mkdir muista käskyistä en mene vannomaan toimiiko vaiko ei joten käytä ohjelmaa turvallisessa ympäristössä. 
+
+
+Tekijä Akseli Hulkkonen

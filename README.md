@@ -1,5 +1,5 @@
 # Katsy projektit
-Project 1
+**Project 1**
 
 Lähdekoodi project 1 warmup to C and unix programming
 https://github.com/Tissinapa/Katsy-projektit/blob/main/reverse.c
@@ -8,7 +8,7 @@ Ohjelma ajetaan käskyllä ./reverse.exe tiedosto
 Nyt ohjelma lukee tiedoston linkitettyyn listaan, tulostaa tiedoston sisällön näytölle. 
 Tämän jälkeen ohjelma kääntää linkitetyn listan ympäri ja tulostaa tiedoston sisällön uudestaan, mutta päinvastaisessa järjestyksessä.
 
-Project 2 Unix utilities
+**Project 2 Unix utilities**
 
 Lähdekoodi project 2 my-cat
 https://github.com/Tissinapa/Katsy-projektit/blob/main/my-cat.c
@@ -31,7 +31,7 @@ Ohjelma ajetaan käskyllä ./wgrep hakutermi tiedosto
 
 Ohjelma ei täysin noudata moodlen tehtävän antoa vaan oli helpompi saada testit suoritettua kun noudatti projektissa annetun repon ohjeita.
 
-Project 3 Unix shell
+**Project 3 Unix shell**
 
 Lähdekoodi project 3 Unix shell
 https://github.com/Tissinapa/Katsy-projektit/blob/main/wish.c

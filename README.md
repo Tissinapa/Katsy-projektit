@@ -13,7 +13,9 @@ Project 2 Unix utilities
 Lähdekoodi project 2 my-cat
 https://github.com/Tissinapa/Katsy-projektit/blob/main/my-cat.c
 
-Ohjelma ajetaan käskyllä ./my-cat jokintiedosto
+Ohjelma on käännetty komennolla gcc my-cat.c -o my-cat.exe std=c99 -Wall
+
+Ohjelma ajetaan käskyllä ./my-cat jokinTiedosto
 
 Ohjelma tulostaa tiedoston sisällön näytölle
 
@@ -22,4 +24,13 @@ Ohjelmaa oli helpompi testata koska testeissä vaadittiin edellä mainittua laus
 
 Lähdekoodi project 2 my-grep
 https://github.com/Tissinapa/Katsy-projektit/blob/main/wgrep.c
+
+Ohjelma on käännetty komennolla gcc -o wgrep wgrep.c -Wall -Werror
+
+Ohjelma ajetaan käskyllä ./wgrep hakutermi tiedosto
+
+Ohjelma ei täysin noudata moodlen tehtävän antoa vaan oli helpompi saada testit suoritettua kun noudatti projektissa annetun repon ohjeita.
+
+Lähdekoodi project 3 Unix shell
+https://github.com/Tissinapa/Katsy-projektit/blob/main/wish.c
 
